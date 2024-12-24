@@ -1,4 +1,5 @@
 # Patricia Zaragoza Palma
+# ingeniería en sistemas computacionales 
 
 import paramiko
 import tkinter as tk
